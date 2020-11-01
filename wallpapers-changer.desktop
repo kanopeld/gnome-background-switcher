@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Name=Gnome Wallpapers Changer
+Exec=/etc/changer.py /home/kanopeld/Pictures/Wallpapers
+Terminal=false
+Type=Application
